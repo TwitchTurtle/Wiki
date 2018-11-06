@@ -1,4 +1,6 @@
-# How to Tip a Streamer with TwitchTurtle
+# Using TwitchTurtle as a Donator
+
+## Tipping a Streamer
 
 Tipping a streamer with TwitchTurtle is an easy and painless process:
 
