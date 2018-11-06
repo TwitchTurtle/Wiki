@@ -34,7 +34,7 @@ Withdrawing your TRTL is also a straightforward task which hardly takes a second
 
 4. Confirm whether or not the address is correct; if it is, click `OK`, otherwise click `Cancel` to cancel the withdrawal
 
-   **You *cannot* send balance from TwitchTurtle to an exchange**
+    **You *cannot* send balance from TwitchTurtle to an exchange**
 
 5. The transaction will now be sent and on its way to the address specified!
 
