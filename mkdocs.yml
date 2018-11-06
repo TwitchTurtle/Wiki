@@ -1,0 +1,78 @@
+# proj info
+site_name: 'TwitchTurtle Wiki'
+site_description: 'Wiki for TurtleCoin'
+site_author: 'Sajo8'
+site_url: https://docs.twitchturtle.com/
+
+# repo
+repo_name: 'TwitchTurtle/wiki'
+repo_url: 'https://github.com/TwitchTurtle/wiki'
+
+# copyright
+copyright: 'Copyright 2018 TwitchTurtle'
+
+# config
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'images/fav.png'
+  favicon: 'images/fav.png'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+  language: 'en'
+  direction: 'ltr'
+  feature:
+    tabs: true
+  # 404 page
+  static_templates:
+    - 404.html
+
+# customization
+extra:
+  search:
+    language: 'en'
+  social:
+    - type: 'github'
+      link: 'https://github.com/TwitchTurtle'
+
+# extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+  #pymdown extensions
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# directory org
+nav:
+    - Home:
+      - Home: index.md
+      - Getting Started: Getting-Started.md
+    - About:
+      - About TwitchTurtle: about/About-TwitchTurtle.md
+    - Guides:
+      - Streamers- Setting up a Wallet: guides/stream.md
+      - Donators- Tipping a Streamer: guides/donate.md
+
