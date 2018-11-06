@@ -9,7 +9,7 @@ If this is your first time hearing about TwitchTurtle, we recommend starting wit
 
 TwitchTurtle is a streamlabs-integration system, which lets you accept tips while streaming with [TurtleCoin](https://turtlecoin.lol), a fast, easy and private cryptocurrency.  
 
-TwitchTurtle is reliable, easy to setup, and grants you more control on your donations. Tips show up faster, and fees are much less.
+TwitchTurtle is reliable, easy to setup, and grants you more control on your donations. Tips show up faster, and fees are much lower compared to other options.
 
 ## Quick Navigation
 
