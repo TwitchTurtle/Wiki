@@ -1,4 +1,4 @@
-# Using TwitchTurtle Wallet as a Streamer
+# Using TwitchTurtle as a Streamer
 
 ## Setting up an account
 
