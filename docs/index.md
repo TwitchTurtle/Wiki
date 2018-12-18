@@ -3,7 +3,7 @@
 # Welcome to the TwitchTurtle Wiki
 
 This wiki is a collection of guides for newcomers to TwitchTurtle.  
-If this is your first time hearing about TwitchTurtle, we recommend starting with the [TwitchTurtle website](https://twitchturtle.com).
+If this is your first time hearing about TwitchTurtle, we recommend starting with the [TwitchTurtle website](https://trtl.tv).
 
 ## What is TwitchTurtle?
 
