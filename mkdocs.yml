@@ -73,6 +73,6 @@ nav:
     - About:
       - About TwitchTurtle: about/About-TwitchTurtle.md
     - Guides:
-      - Using TwitchTurtle Wallet as a Streamer: guides/stream.md
+      - Using TwitchTurtle as a Streamer: guides/stream.md
       - Using TwitchTurtle as a Donator: guides/donate.md
 
