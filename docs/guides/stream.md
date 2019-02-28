@@ -37,5 +37,3 @@ Withdrawing your TRTL is also a straightforward task which hardly takes a second
     **You *cannot* send balance from TwitchTurtle to an exchange**
 
 5. The transaction will now be sent and on its way to the address specified!
-
-*Note*: Withdrawals are sent upto 100,000 TRTL at a time; if you have more than that, you will have to withdraw funds multiple times.
